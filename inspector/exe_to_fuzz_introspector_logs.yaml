@@ -1,0 +1,17 @@
+pairings:
+- executable_path: /out/valid
+  fuzzer_log_file: fuzzerLogFile-0-XiBEOmXkLA
+- executable_path: /out/xml
+  fuzzer_log_file: fuzzerLogFile-0-Yb7worGNu7
+- executable_path: /out/xpath
+  fuzzer_log_file: fuzzerLogFile-0-qGkUibbU1z
+- executable_path: /out/xinclude
+  fuzzer_log_file: fuzzerLogFile-0-05rzBDvWzj
+- executable_path: /out/uri
+  fuzzer_log_file: fuzzerLogFile-0-cm2oDezQ0b
+- executable_path: /out/schema
+  fuzzer_log_file: fuzzerLogFile-0-s5NDaISAm2
+- executable_path: /out/html
+  fuzzer_log_file: fuzzerLogFile-0-06c5Dh210I
+- executable_path: /out/regexp
+  fuzzer_log_file: fuzzerLogFile-0-rx57qjOGMZ
