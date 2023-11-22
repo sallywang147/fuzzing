@@ -1,0 +1,4 @@
+/out/bin/klee -ignore-solver-failures -always-output-seeds -output-format-binary -output-symbolic-name kleeInputBuf -max-memory 2995 -max-solver-time 30s -log-timed-out-queries -max-time 66240s -libc uclibc -libcxx -posix-runtime -disable-verify -output-dir /out/corpus/queue /out/xml.bc 256
+PID: 211
+Using monotonic steady clock with 1/1000000000s resolution
+Started: 2021-06-04 16:21:22

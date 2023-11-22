@@ -1,0 +1,23 @@
+array kleeInputBuf[256] : w32 -> w8 = symbolic
+array model_version[4] : w32 -> w8 = symbolic
+(query [(Eq 1
+             (ReadLSB w32 0 model_version))
+         (Eq 60 (Read w8 0 kleeInputBuf))
+         (Eq 95 (Read w8 1 kleeInputBuf))
+         (Eq false
+             (Sle 97
+                  N0:(ZExt w32 (Read w8 2 kleeInputBuf))))
+         (Eq false (Sle 65 N0))
+         (Sle 48 N0)
+         (Sle N0 57)
+         (Eq 95 (Read w8 3 kleeInputBuf))
+         (Eq false
+             (Sle 97
+                  N1:(ZExt w32 (Read w8 4 kleeInputBuf))))
+         (Sle 65 N1)
+         (Sle N1 90)
+         (Sle 97
+              N2:(ZExt w32 (Read w8 5 kleeInputBuf)))
+         (Sle N2 122)
+         (Eq 95 (Read w8 6 kleeInputBuf))]
+        false)
