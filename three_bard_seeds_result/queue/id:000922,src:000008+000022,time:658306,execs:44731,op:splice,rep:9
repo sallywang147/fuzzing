@@ -1,0 +1,20 @@
+<?wml version="1.0‹‹‹‹‹‹‹‹‹‹‹PE d [
+<!ENTITY a "]>">
+    <bENTITY ! ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+Lo§”“text&a;te‘‘dt
+<![CDATA[cdbta]]>
+<?pi p2?>
+<!-<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "someth”“text&aing">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<soaebe

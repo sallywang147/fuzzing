@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "s CDATA #Eoc0"
+     xmlns:tst CDATA #FIXED "httcom/">]>
+<.org"
+     tst:att (0|1>
+]>
+<doc att="1"/>

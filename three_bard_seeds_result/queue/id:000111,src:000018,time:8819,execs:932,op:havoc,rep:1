@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     x
+<empty/>
+<!-- document end -mple.com/">
+]>
+<doc/>

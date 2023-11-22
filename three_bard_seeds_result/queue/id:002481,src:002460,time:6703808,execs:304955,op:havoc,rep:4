@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"%%%:Dtt (0|±)atA #FIXED "http://example.org"
+       %%%%%%%%%%%%%%%%%%%%% :Dtt (0|±)att="1"/>

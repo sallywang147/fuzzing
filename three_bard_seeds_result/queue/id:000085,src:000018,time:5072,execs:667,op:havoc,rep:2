@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmlns "DATA #@IXED "://www.example.com/">
+]>
+<doc/>

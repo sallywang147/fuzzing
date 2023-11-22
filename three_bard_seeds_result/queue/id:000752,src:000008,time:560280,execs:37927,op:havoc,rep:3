@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -Y>
+<!ATTLIST doc
+  
+<!--> c1 -->
+<d a=">" b='>'>
+vext&a;text
+<![CDATAOCTYPE d [
+<!EN[cdata]]>
+<?pi p2?>
+<!--> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 -->

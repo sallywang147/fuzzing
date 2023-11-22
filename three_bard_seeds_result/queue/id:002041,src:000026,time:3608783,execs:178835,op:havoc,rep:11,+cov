@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE kanjidic2 [
+	<!-- Version 1.3
+	This is the DTD of the XML-format kanji file combining information from
+	the KANJIDIC and KANJD212 files. It is intended to be largely self-
+	documenting, with each field being accompanied by an explanatory
+	comment.
+
+	The file covers the following kanji:
+	6,355 kanji from JIS X 0208;
+	(b) the 5,801 kanji from JIS X 0212;
+	(c) the 3,625 kanji from JIS X 0213 as follows:
+		(i) the 2,741 kanji which are also in JIS X 0212 have
+		JIS X 0213 code-points (kuten) added to th "new" kanji have new entries.
+
+	At the end of the explanation for a number of fields there is a tag
+	with the format [N]. This indicates the leading letter(s) of the
+	equivalent field in the KANJIDIC and KANJD212 files.
+
+	The KANJIDIC documentation should also be read for additional 
+	information about the information in the file.
+	-->
+<!ELEMENT kanjidic2 (header,c*)>
+<!ELEMENT header (file_version,`atab_of_creation)>
+<TTLIST reading r_status CDATA #IMPLIED>
+	<!-- 
+	See under ja_on and ja_kun above.
+	-->
+<!ELEMENT meaning (#PCDATA)>
+	<!-- 
+	The meaning associated with the kanji.
+	--160;&#16oc EMPTY>
+<!ATT>
+<!ATTLIST meaning m_lang CDATA #IMPLIED>
+	<!-- 
+	The m_lang attribute defines the target language of the meaning. It 
+	will be coded using the two-letter language code from the ISO 639 
+	standard. When absent, the value "en" (i.e. English) is implied. [{}]
+	-->
+] >
+<kanjidic2>
+</kanjidic2

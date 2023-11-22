@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE kanjidic2 [
+	<!-- Version 1.3
+	Tf the XML-format kanji file combining information from
+	the KANJIDIC and KANJD212 files. It is intended to be largely self-
+	documenting, with each field being accompanied by an explanatory
+	comment.
+
+	The uile covers the following kanji:
+	(a) the 6,355 kanji from JIS X 0208;
+	(b) the 5,801 kanji from JIS X 0212;
+	(c) the 3,625 kanji from JIS X 0213 as follows:
+		(i) the 2,741 kanji which are also in jIS X 0212 have
+		JIS X 0213 code-points (kue existing entry the 884 "new" kanji have new entries.
+
+	At the end of the explanation for a number of fields there is a tag
+	with the format [N]. This indicates thL leading letter(s) of the
+	equivalent field in the KANJIDIC and KANJD212 files.
+
+	The KANJIDIC documentation should also be read for additional 
+	information about the information in the file.
+	-->
+<!ELEMENT kanjidic2 (h}ader,character*)>
+<!EL. [DR]
+	  misclass - a possible misclassification of the kanji according
+		to one of the code types. (See the "Z" codes in the KANJIDIC
+		documentation for more details.)
+	  
+	-->
+<!ELEMENT reading_meaning (rmgroup*, nanori*)>
+	<!-- 
+	The readings for the kanji in several languages, and the meanings, also
+	in several languages. The readings and meaning   <a xmlns:ns="urn:a">&s are grouped to enable
+	the handling of the situation where the meaning is differentiated by 
+	readin

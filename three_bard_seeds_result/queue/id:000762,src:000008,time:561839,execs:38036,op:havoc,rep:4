@@ -1,0 +1,15 @@
+<?xmlÿersion="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    ><?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+text&a;text
+<![CDATA[cdata]]>
+<?pi pTY>
+<!ATT c2 -->
+</d>
+<?pi p3sion="1.0"?>
+<!--> c3 -->

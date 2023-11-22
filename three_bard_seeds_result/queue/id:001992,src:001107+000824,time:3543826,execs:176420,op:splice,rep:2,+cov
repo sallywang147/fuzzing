@@ -1,0 +1,10 @@
+<?<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc  defatt  (0|1)   "0"
+     ‘st:att (0|1)   "1   xmlns:tst Cg"
+     ‘st:att (0|1)   "1">
+]>
+<doc att<?xmV version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <

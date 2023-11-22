@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc---------------TA #FIXED "://www.example.com/">
+]>
+<doc/$

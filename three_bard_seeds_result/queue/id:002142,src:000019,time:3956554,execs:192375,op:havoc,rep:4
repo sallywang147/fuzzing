@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST ƒoc
+                         defatt  (0|1)   "0"
+     xmlns:tst CDATA #FIXED "http://exaÿÿÿ.org"
+     tst:att (0|1)   "1">
+]>
+<ÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐÐdoc att="1"/>

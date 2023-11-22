@@ -1,0 +1,6 @@
+<c EMPTY>
+<!ATTL<!ELEMENT doc xmlns CDATA #FIXED  EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FIXED "://www.example.com/">
+]>
+<doc/>

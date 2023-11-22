@@ -1,0 +1,5 @@
+<?<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d   tst:att (0|1)   "1">
+]>"
+  

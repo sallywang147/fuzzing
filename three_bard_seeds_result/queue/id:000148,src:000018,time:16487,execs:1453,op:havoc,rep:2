@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xèns CDATA #FIXED "://www.example.com/">
+]>
+Ý>ØSÝ>ØSÝ>ØSÝ>ØSÝ>ØSÝ<doc/>

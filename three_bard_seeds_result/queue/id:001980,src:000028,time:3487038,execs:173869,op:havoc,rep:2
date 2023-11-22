@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY en:a">&en:elem/>">
+]>
+<doc>
+    <a xmlns="urnt2 "<nst1;</a>
+    <b

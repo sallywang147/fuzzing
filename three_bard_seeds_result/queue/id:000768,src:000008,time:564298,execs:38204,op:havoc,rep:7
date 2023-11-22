@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]Á">
+   !ENTITITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+@!--> c1 -->
+<d a=">" b='>'>
+te-t&a;text
+<![CDATA[cd iso6.doc.date '
+<!--> c2 x->
+</d>
+<?pi p3?>
+<!--> c3 ->

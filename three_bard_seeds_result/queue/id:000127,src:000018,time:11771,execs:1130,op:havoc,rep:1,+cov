@@ -1,0 +1,5 @@
+<þþþþþþþþþþþþþþþþþþþþþþþþþþþþ EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FIXED "://www.example.com/">
+]>
+<doc/>

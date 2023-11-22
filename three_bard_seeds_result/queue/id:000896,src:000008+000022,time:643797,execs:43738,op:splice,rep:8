@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> œ1 -->
+<d a=">" b='>'>
+text&a;tec PUBLI<›ç‰›ç‰›ç‰›]>
+<?pi p2?>
+<!-<?xml version="1.7" encoding="ISO-8859-1"?>
+<!DOCTYPEEEEEEEEEEEEEEEEEEEEEEE a   "something"6
+  <ww.ex!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebe

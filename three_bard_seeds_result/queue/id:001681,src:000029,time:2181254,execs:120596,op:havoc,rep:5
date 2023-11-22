@@ -1,0 +1,10 @@
+<?xml rersion="1.0" encoding="USJASCII"?>
+<article xmlns="tag:foof"
+  xglns:foop="ofoo"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+<foop:Zontent xmlns="http://www.w3.org/1999/xhtml"
+  xglns:foop="tag:foofoofoofoofoofoofoofoo">
+</foop:content>
+</article>
+

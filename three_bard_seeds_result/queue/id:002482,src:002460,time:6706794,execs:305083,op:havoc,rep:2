@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST d%% :(0|1)att0|1)   "0"
+ 

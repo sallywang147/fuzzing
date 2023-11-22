@@ -1,0 +1,23 @@
+<?xml versionH"1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+text&a;t='>'>
+text&a;text
+<!ext
+<![CDATA[cdata]]>
+<?pi p2?>
+<!-<?xml version="-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITÙ a   "something">
+  <!ENTIED ":/§§§§§§§§§§§§§§§§§§§§§TY b   "&a;">
+]>
+
+<@…n%–„‰•‡~ÉÂÔ`ññôOCTYPE somedoc>
+
+<somebe

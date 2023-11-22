@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT dˆˆˆˆoc EMPTY>
+<!ATTLIST doc
+     xmlns CDAA c/>

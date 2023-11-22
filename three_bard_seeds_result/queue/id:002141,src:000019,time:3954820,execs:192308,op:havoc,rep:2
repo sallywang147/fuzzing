@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "oo>
+Te 214 (0xd6t CDATA #FIXED "http://edata]]>
+<?xample.org"
+     tst:att (0|1)   "1">
+]>
+<doc att="1"/>

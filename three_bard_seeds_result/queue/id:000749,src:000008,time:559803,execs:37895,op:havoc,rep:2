@@ -1,0 +1,15 @@
+<?xmmmmmmmmmmmmmmmmmmmmml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">"&a;text
+<![CDATA[cdata]]>
+<?pi p2?>
+<!--> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 -->

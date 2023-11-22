@@ -1,0 +1,26 @@
+<?xml version="1®0T doc
+     xmlns CDATA #FIXED ":?>
+<!DOCTYPE d [
+<!<!ENTITY a "]>">
+    <!1NTITM b ']>'>
+    <!--> ]>-->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+text&i;text
+<![CDATA[cdata]]><?pi p2?>
+<!--> c2 -->
+</d>
+<?>
+
+
+
+
+
+
+
+
+>-->
+]    >ö;?pi p1?>
+<!--> c1--> c3 --?

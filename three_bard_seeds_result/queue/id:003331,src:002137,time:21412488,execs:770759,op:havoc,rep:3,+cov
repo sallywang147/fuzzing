@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ gefatt (1|1)   "1">
+]>
+<›xmlns:tst CDATA #FI

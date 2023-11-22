@@ -1,0 +1,25 @@
+<DORTYPE doc [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ATTLIST doc
+     xmlns CDAvA #FIXED "://www.example.com/">]>
+<do

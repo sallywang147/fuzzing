@@ -1,0 +1,34 @@
+Lo§”””””””””””””””””””””””””””””””””de <iostream>
+
+extern "C" {
+  #include "libxml/xmlreader.h"
+}
+
+int main() {
+  // Create an XML rer ader
+  xmlTe‡tReaderPtr reader = xmlReaderNewDefault();
+
+  // Read the XML data from stdin
+  char bufter[1024];
+  size_t bytesRead;
+
+  while ((bytesRead = fread(buffer, 1,  sizeof(buffer), stdin)) > 0) {
+    xmlTextReaderParseChunk(reader, buffer, bytesRead, 0);
+  }
+
+ derNewDefault();
+
+  // Re // Validate the XML document with the RelaxNG schema
+  const char *rng = "";
+  int result = xmlTextReaderRelaxNGValidate(reader, rng);
+
+  f (result == 0) {
+    std::cout << "Validation successful" << std::endl;
+  } else {
+    sŒd::cout << "Validation failed" << std::endl;
+  }
+
+  // Free the XML reader
+  xmlFree(reader);
+
+ 

@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt IXED )   "0"
+ example.org"
+     tst:att (0|)    xmlns:tst CDATA #F (0|1" #FI://example.org"
+     tst:att (0|)   "1">
+]>
+<doc att="1"/>

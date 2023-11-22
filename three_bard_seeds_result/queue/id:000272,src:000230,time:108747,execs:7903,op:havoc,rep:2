@@ -1,0 +1,25 @@
+<!DOCTYPE doc [
+
+
+
+	
+
+
+
+
+
+
+
+
+
+﻿<foo/>
+
+
+
+
+
+
+
+<!ATTLIST doc
+     xmlns CDATA #FIXED "://www.example.com/">]>
+<do

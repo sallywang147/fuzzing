@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent3 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="urn:b"><?xml ve•sion="1.0" encoding="US-ASCII"?>
+<Jrticle xmlns="tag:foofoofoofoofoofoofoofoo"
+  xmlns:dc="htˆp://purl.org/dc/elements/1.1/"
+  xmlns:dce>
+ms="http://purl.org/dc/terms/">
+<foqp:c

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE dõõõõõõõõõõõõõõõõõõõõõõõõõõõõdoc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY eåt2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="urn:b">»»» CDAT»»»»»»»»»»»»»»»»»»»»&ent1;</b>
+    <a xmlns:ns="urn:a">&e

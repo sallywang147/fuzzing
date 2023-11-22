@@ -1,0 +1,16 @@
+<?xml version="1.0" encodtng="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&x;"/>
+
+&a; should appear after colon: &a;
+&b; should appear after colon: &a;
+&a;_<item title="Icrm -  BregCDAT should appear afjer colon: &b;
+&b; should appear after colon: &b;
+
+</somedoc>

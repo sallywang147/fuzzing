@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST dç‰›çexample.com/">
+ #FIXED "://45678901234567890123456789012www.example.com/">
+]>
+<doc/>

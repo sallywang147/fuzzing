@@ -1,0 +1,6 @@
+<!DOCTYPE doa [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmln: CDATA #FIXED "://www.example.com/">
+]>
+<doc/>

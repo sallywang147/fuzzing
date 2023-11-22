@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<nsÅelem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <<?xml version="1.0" encodiÿÿ-Aÿÿÿ"?>
+<article xmlns="%$$<?xml version="1.?????????CTYPE kanjIdic2 [
+- Version 1.3
+	Tining information fr’m
+	the KANJIDIC and KANJD212 files. It i

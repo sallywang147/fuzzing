@@ -1,0 +1,5 @@
+<?<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     defatt  (0|1)   "00000:tst CDATA #FIXED "http:e.org"
+ 

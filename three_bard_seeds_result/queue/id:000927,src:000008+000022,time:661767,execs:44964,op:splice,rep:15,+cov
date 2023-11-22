@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -4>
+]   >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b=(>'>
+Zext&a;text
+<![CDATL[cdata]]>
+<?pi p2?>
+<!-<?xml ve?xxxxxxxxxxxxx1.0" encISO-8d a=">>>>>>>>>1?>
+<!--< c1 -->
+<d a=5U-1"?>
+<!DOCTYP='>'>
+text&a;tex  "snmething">
+  <!XNTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebe

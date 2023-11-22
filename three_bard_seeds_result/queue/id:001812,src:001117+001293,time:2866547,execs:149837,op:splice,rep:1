@@ -1,0 +1,7 @@
+<?<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     defatt  (0|1)   "00<?xml859-1"?>
+<?xml version="1ISO-8859-1"?>
+<?xml version="1.0" ing="utf-8"?>
+<!DOCTYPE 

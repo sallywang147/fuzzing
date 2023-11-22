@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE d7[
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!-->  version="]> -->
+]    >
+<?pi <a>
+    <B>
+        =">" b='>'>
+text&a;text
+<![öDATAÿ€data]]>
+<?pi p2?>
+<!--> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 -->

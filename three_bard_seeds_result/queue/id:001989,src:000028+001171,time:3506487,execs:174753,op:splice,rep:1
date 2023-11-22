@@ -1,0 +1,16 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="urn:b">&ent1;</b>
+    <a xmlns:ns="urn:a">&ent2;</a>
+    <b xmlns:ns="urn:<?xmd versLon="1.0"?>
+<!DOCTYPE d [
+<!ENTITY    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a="" b='>'>
+t<item title="Icrm -  Breg mi with to0" encodinß="utf-e o#160;&#16N;1#160;&#160;&#160;&#160;&#160;&#16E;&#160;&#160;&# to0" encoding="ut160;&#160;&#60;&#160;&#160;&#160;&#160;&#160;&#160;&#1

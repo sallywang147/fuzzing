@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [ <!ENTITY b ']>'>
+    <!--ext&a;text
+<![CDATA[> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+text&a;text
+<![CDATA[|data]]>
+<?pi p2?>
+<!-<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">÷]>
+
+<somedoc>
+
+<somebe

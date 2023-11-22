@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+ xmlns:34567890123456789012345678tst CDATA #FIXED "http://example.org"
+       %%%%%%%%%%%%%%%%%%%%% :attt="1"/>

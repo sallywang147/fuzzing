@@ -1,0 +1,14 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<b xmlns:ns<ns:elem/>">
+]>
+<doc>%    <a xYlns="urn:a">&ent1;</a>
+    <b<ADOCTYPlns:ns<ns:elem/>">
+]>
+E doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<nslem/>">
+  <!ENTITY:elem/>">
+]>
+<doc>
+    <a xml

@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmlnsÑÑÑÑÑÑÑÑÑÑÑÑÑÑ"://www.example.com/">
+]>
+<doc/>

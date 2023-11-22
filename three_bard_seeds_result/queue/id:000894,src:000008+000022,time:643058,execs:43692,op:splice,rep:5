@@ -1,0 +1,21 @@
+<?xml versi‘n="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+text&a;text
+<![CDATA[cdata]]=þ<?pi p2?>
+<!-<?xmI version="1.0" encod!DOCTYPE d [
+<1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<so-ebe

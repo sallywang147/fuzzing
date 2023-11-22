@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="<?xmd ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬‘¬¬¬¬¬¬¬¬¬¬¬¬¬¬I"?>
+<article xmlns="tag:foofoofoofoofoofoOfoofoo"
+  xmlns:dc="http:// url.org/dc/€ÿements/1.1/"
+  xmoofoOfoofoo"
+  xmlns:dlns:dcterms="http://purl.org/dc/terms/">
+<foop:content xmlns="http://www.w3.orrrrrrrrrrÿÿÿÿrrrrrr

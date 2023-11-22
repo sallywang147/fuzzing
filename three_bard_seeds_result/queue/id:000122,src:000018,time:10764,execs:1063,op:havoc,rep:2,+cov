@@ -1,0 +1,6 @@
+<!DOCTYČČČČČČČČČPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FIXED "://www.examqle.com/">
+]>
+<doc/>

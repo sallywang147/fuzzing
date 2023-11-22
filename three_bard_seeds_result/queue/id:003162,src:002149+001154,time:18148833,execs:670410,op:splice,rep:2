@@ -1,0 +1,14 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATA #FIXED "http://example.org"
+     tst:ermatt (0|1)   "1">
+]<?xml versLo¦ðŸ¦ðŸ¦ðŸ¦#160;& d [
+<!ENTITY    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c1 -->
+<d a=">" b='>'>
+t<item title="I†rm -  Breg mi with to0" encodinß="utf-e o#160;&#16N;1#160;&¦ðŸn="1.0"?>
+<!DOCTYPE#160;&#160;&#160;&#16E;&#160;&#160;&# to0" encoding="ut160;&#160;&#60;&#160;;;;;;;;;;;;;&#160;&#160;&#160;&#160;&#160;&"160;&#160;&&&&&&

@@ -1,0 +1,19 @@
+<?xt
+<![CDATn="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+  p1?>
+<!--> c1 -->   <!EEEEEEEEENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1999'>
+]>
+<spec>?</spec>1?>
+<!-> c1 -->
+<d a=">" b='>'>
+text&a;texml versioA[cdata]]>
+<?pi p2?>
+<!--> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 -->

@@ -1,0 +1,6 @@
+<!DOCTYPE do@ [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmlns CDATA #FI "://www.example.com/">
+]>
+<d<doc/>

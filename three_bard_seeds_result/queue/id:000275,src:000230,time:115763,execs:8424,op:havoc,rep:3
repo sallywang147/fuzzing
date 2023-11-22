@@ -1,0 +1,26 @@
+<!DOCTYPE d‚c [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ATTLIST doc
+     xmls CDATA #FIXED "://www.example.com/"LIST doc
+     xmls CDATA #FIXED>]>
+<do

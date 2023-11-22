@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0:tsxmlns"
+ t CDATA #FIXED "http://example.oÿÿÿ       %%%%%%%%%%%%%%%%%%%%% :att (0|1)att="1"/>

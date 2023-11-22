@@ -1,0 +1,17 @@
+<?xmØSl::-::::=:::::::DOC?<!DaCTYPE doc [
+<!ELEMYPE d [
+<!ENTITY a "]>"=
+   <!ENTITY b ']>'>
+    <!--> ]> d a=">" b<'>'Â
+CDOCTYPE doc [
+<!ATA[cp1?>
+<!--> c1 -->
+<d a=">" b<'>'Â
+text&i;text
+<![text&i-->
+]    >
+<?pi data]]><?pi p2?>
+<!--> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 --?

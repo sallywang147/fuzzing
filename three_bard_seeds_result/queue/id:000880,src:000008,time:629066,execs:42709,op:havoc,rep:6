@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE d [
+<!ENTITY a "]>">
+    <!ENTITY b ']>'>
+    <!--> ]> -->
+]    >
+<?pi p1?>
+<!--> c0 -->
+<d a=">" b='>'>
+text&a;text
+<![CDa;text
+<![¼DATA[cdata]]>
+<?piATA[coc
+     xmlns CDATA #FIXEDdata]F>
+<?pi p2?>
+<!-->/d>
+<?pi p3?>
+<!--> c3 --> c2 -->
+</d>
+<?pi p3?>
+<!--> c3 -->
