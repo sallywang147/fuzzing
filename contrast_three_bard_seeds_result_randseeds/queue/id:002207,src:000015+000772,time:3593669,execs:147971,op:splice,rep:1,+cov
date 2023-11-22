@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+     xmlnX CDATA #FIXED "://www.example.com/">
+]>
+<doc<?xml version="1.0" encoding="utf-8"?>
+<!

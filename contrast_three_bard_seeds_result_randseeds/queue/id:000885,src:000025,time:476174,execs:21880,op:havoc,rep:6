@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>ÿ=
+]>
+<doc>
+    <a xmlnsO"urn:a">&ent@;</a>
+5   <b xmlns="urn:b">&ent1bpm/c8c8b82a-0alns:ns="urn:a">&ent2;</a>
+    <b xmlns:version="1.0"?>
+<?docum/doc>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "someterrrrr colon: &b;
+hing">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+ ar after colon: &b;
+
+</sƒƒã‚»ãƒ¼ã‚¸
+	xmlns="http://schemas.cordys.com/webapps/1.0/bpm/c8c8b82a-0ac0-3d

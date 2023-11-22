@@ -1,0 +1,7 @@
+<!DOCTYPEÙdoc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmuns:tst CDATA #FIXED "htdoc [
+<!ELEMENT doc EMPTY>
+<!ATtp"/>

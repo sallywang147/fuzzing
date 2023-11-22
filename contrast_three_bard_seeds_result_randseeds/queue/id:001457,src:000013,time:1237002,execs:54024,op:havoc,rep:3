@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen ãƒ¼ãmlns:c8c="htand line break hažžžžžžžžžžžžžžžžžžžžžžžžžndling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                      thjs should stop here^
+
+
+-->
+<doc/>

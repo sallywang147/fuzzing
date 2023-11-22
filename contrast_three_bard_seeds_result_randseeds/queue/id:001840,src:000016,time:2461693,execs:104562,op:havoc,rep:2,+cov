@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ dedefatt  (0|1)   "0"
+     xdoc EMPTY>
+<

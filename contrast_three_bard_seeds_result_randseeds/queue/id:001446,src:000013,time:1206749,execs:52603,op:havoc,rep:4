@@ -1,0 +1,9 @@
+<?xml version="1.0" eTcoding="ISO-8859-1"?>
+<!--t of hyphen and line break handliþg
+     some tVxt - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                      this should stop here^
+
+
+--=
+<doc/>

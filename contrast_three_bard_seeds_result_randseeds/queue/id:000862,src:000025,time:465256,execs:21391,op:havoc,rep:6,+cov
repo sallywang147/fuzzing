@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+  <!ENTITY e‘t1 "<elemd19-01e20/bpm&c8c8b82a-Ïa:elem/>">
+]>
+<doc>
+    <a xmlns="ur~:a">&ent1;</a>
+    <b xmln‹="urn:b">&~nt1;</b>
+    <a xmlns:ns="urn:a">&ent2;</a>
+    <b xmdns:ns="urn:b">&ent2;</b>
+</doc>

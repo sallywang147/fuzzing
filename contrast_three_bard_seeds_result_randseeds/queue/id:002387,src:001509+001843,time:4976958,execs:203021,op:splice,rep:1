@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST do  xmlns:tst CDATA #FIXED "http://e0ac0-3d19-01e2-bda74af9b826">   "1">
+]>
+<doc att="1"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc&[
+  <!ENTITY q   "something">
+ NTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut/schemas.cora; should appearßafter colon: &a;
+ebbapps/1.0/; should appear aftqr colon: &a;
+&a; should appear after colon: &b;
+&b; should appear after colon: &b;
+
+</somedoc>

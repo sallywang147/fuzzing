@@ -1,0 +1,11 @@
+<?xml`[ersion="1.0" encoding="c.date '29-May<!DOCTYPE dotspec//" "dtve.Jtd" [
+<!ENTITZ isoY.dou‰?>
+<!DOCTYPEc PUBLIC "-/c [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/ ">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="urn:b">&ent1;</b>
+    <a x>
+<d>

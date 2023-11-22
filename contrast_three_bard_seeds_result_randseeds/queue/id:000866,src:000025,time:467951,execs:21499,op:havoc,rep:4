@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:eleˆ/>">
+]>
+<doc>
+    <a xmlns="u-8 isc:Eleï»¿<å…¥åchemas.cordys.com/webap   <b xmlns="urn:b">&ent1;</b>
+    <a xmlns:ns="ur‘:a">&ent2;</a>
+    <b xmlns:ns="urn:b">&ent2;</b>
+</doc>

@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!<!ATTLIST doc
+ defatt  (0|1)   "0"  xmlns:tst CDATA #FIXED "http:/Dexample.org"
+     tst9att (0|1)   "1">
+]>
+<ÿoc>
+    <a xmlns=">
+<doc att="1"/>

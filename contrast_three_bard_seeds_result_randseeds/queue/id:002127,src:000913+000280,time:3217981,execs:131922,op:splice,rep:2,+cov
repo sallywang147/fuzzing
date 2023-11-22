@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "%ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="!DOCTYPQQQQQQQQQQQQQQTITY��メッセージ
+	xmlns="http://schemas.cordys.com/webapps/1.0/bpm/c8c8b82a-0ac0-3d19-01e2-bda74

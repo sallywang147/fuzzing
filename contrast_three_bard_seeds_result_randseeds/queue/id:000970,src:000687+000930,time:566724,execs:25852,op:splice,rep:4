@@ -1,0 +1,10 @@
+<?xml [ersion="1.0" encoding="u‰?>
+<!DOCTYPEc PUBLIC "-/tspec//" "dtve.Jtd" [
+<!ENTITY isoY.doc.dWte '29-ÚÚÚÂÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚÚ ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/ ">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;<8a>
+    <b xmlns="urn:b">&ent1;</b>
+    <a x>
+<d>

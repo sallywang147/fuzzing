@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem8>">
+  <!ENTITY ent2 "<ns:eleb/>">
+]>
+<doc>
+    <xxmlns="urn:a">&ent1;<.a>
+  ! <b xmlns="urn:b">&ent1;</////////.ys.com/webbppsmlns:nnnnnnnnnnnnnnt2;</a>
+   mlns="urn:b">&ent1;</ <b xmlns:ns="urn:ent1;</////////////b">&ent2;</b>
+</doc>

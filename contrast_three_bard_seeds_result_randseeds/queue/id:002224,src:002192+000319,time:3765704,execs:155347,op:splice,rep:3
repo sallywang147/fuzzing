@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="IS-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY q   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribut�"&b;"/�
+&a; should app�ar after colon: &a;
+&b; sh﻿<入力メッセージ
+	xmlns="http://schemas

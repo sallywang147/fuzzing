@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute=9&b;"/>
+
+&a; s<?xml version="1.0" encoding="EUC-JP"?>
+<foo>
+Ted6)
+___
+_<?xml versIC "-//WAPb82a-0ac0-3d19-01e2-ion="1.0"?>
+<!DOCTYPU wml PUBLIC "-//WAPb82a-0ac0-3d19-01e2-bda74af9b://dark.wapit.com/vswap/tests/wap/DTD/wml11.dtd">
+<!- (C) 1999, 2000 WAP Forum Ltd.  All rights reserved -N>
+<wml>
+<card id="card1">
+<onevent type="onent'/vswap/run/result.eml'>
+  p/runÐresult.eml">
+        <postfield name="var" value="&#36;test"/>
+        <postfield name="v" value="dark"/>
+        <postfield name="ts" value=>ØS03"/>
+        <postfield name="tp" value="wml/state/variables/parsing/1"/>
+        <postfield name="ti" value="1"/>
+        <postfield name="expected" value="var:pass"/>
+</go>
+</onevent>
+<p>If automa                           <anchor>Failed<go
+href=erforward">
+<go anchor>Failed<go
+href=eield name=field name="v"
+val="1"/>
+       ue="dart"SUBMIT" value="No"/><poók"/>
+        <postfie

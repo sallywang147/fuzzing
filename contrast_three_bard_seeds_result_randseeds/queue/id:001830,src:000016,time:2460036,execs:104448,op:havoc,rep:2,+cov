@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLLLLLLLLLLLefatt  (0|1)   "0"
+     xmlns:tst CDATA #F "http://example.org"
+     t   tst:att (0|1)   "1">
+]>
+<doc att="1"/>

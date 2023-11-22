@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<article xmlns="tag?????????????????:fo<!DOCTY
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATA #F

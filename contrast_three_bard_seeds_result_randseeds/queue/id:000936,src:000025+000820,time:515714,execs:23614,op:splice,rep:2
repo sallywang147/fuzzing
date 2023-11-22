@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urnschemas.cordys.com/<b xmlns="urn:b">&ent1;</b>
+    <a x="urn:b">&ent2">&ent2;</a>
+    <b xmlns:nsmlns:ns="urn:a;</b>
+</do<?xml version="1.0" e﻿<入力

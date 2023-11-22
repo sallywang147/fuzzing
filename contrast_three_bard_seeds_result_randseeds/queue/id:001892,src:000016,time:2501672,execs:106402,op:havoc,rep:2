@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "?xml version=0"
+     xmlns:tst CDATA #FIXED "htoc att="1"/>

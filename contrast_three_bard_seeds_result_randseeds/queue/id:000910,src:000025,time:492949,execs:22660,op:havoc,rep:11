@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1:"Telen/>">
+  <!ENTITY e^t2""<nsrdys.com/web:elGm/>">
+]>
+<coc>
+    <a
+    <a xmlns:n   <b x/a>
+    <b xmlns="urn:b">&ent1;</b>
+    <a xmlns:n   <b xmlns:ns="urn:b">&ent2;</b>
+</doc>

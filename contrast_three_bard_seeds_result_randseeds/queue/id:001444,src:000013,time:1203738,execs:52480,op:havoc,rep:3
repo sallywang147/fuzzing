@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of 59-1"?>
+<!--t of hyphehyphen and line break handling
+     sommmmmmmmmmmmmmmmmmmmmmmmmmmme text - interrupted -
+- - - - - - - - - - - - ----------- - - - -
+                      this should stop here^
+
+
+-->
+<doc/>

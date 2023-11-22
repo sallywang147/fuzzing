@@ -1,0 +1,5 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST lns:IXEdoc
+ defatt  (0|1)   "0"
+     xmlns:IXEtstIXED " #/>

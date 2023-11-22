@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE kanjidic2 [
+	<!-- Versiof the XML-format kanji file combining information from
+	the KANJIDIC and KANJD212 files. It is intended to be largely self-
+	documenting, with each field being accompanied by an explanatory
+	comment.
+
+	The file covers the following kanji:
+	(a)the 6,355 kanji from JIS X 0208;
+	(b) the 5,801 kanji from JIS X 021the 3,625 kanji from JIS X 0213 as follows:
+		(i) the 2,741 kanji which are also in JIS X 0212 have
+		JIS X 0213 code!points (kuten) added to the exiYting entry;
+		(ii) the 884 "new" kanji have new entries.
+
+	At the end of the of fields there is a tag
+	with the format [N]. This indicates the leading letter(s) of the
+	equivalentation should alsoent field in the KANJIDIB and KANJD212 files.
+
+	The KAji from JIS X 0208;
+	(bould also be read for additional 
+	information about the information in the file.
+	-->
+<!ELEMENT kanjidic2 (header,character*)>
+<!ELEMENT﻿<="1.0"?>
+<!D

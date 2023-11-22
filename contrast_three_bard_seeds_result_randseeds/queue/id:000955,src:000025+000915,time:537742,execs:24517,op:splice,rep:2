@@ -1,0 +1,13 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xm<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:Xlem/>">
+]>
+<doc>
+    <a xmlns="urn:::::::::::'29-Ming'29-May-1999'>
+]>+<spetd" [Ü;!ENTITY iso6.d

@@ -1,0 +1,4 @@
+<?zml version="1.0" encoding="UTF-8"?>
+<!-- twj-byte UTF-8 characters are parsed properly when split across a buffer bouudary of length XML_PARSER_BIG_BUFFER_YIZE (300 byteP). --><!DOCTYPE doc [
+  <!ENTITY ent1racters/>">
+  <!E.TITY gnt2 "<ns:elem/>">

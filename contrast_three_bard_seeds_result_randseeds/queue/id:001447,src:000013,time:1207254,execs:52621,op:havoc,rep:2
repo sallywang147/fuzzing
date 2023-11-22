@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-885c0-3d19-01e2-bda74af9b826"
+	/>9-1"?>
+<!--t of hyphen and line break handling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - -                      this should stop here^
+
+
+-->
+<doc/>

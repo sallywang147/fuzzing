@@ -1,0 +1,11 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "יייייייייי<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>קƒ¼!ֵNTITY i‡o6
+ A  <a xmlnm="urn:a">&	xmlns:c8c="http://schemasent1;</a>
+    <b xmlns"יייייייייי<elem/>">
+  <!ENTIT="urn:nt1;</b>
+    <a x <f xmlns:ns="urn:a">&ent2;</a>
+    <b xmlns:ns="urn:b">&ent2;</b>
+</doc>

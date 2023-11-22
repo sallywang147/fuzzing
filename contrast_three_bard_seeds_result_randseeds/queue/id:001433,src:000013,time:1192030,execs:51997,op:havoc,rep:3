@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--hen and line break6handling
+     wome text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                      this should Œtop here^
+
+
+-->
+<doc/>

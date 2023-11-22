@@ -1,0 +1,14 @@
+<?xml version="1.0" e�rdom/w��<入力メッセージ
+	xmlns="hhtp://schemas.cordys.com/weba!ps/1.0/bpm/c8c8b82a-0ac0-3d1<?xml version="1.0" encoding="ISO-8859-5"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "something7</comments>
+    <secti">
+  <!ENTITY b   "&a;">
+]>
+
+<somedoc>
+
+<somebeacon Tomeattribute="&b;"/>
+
+&a; shoar after colon: &a;
+&b

@@ -1,0 +1,3 @@
+<!DOCTYPE doc [
+<!<!ATTLIST doc
+ defatt  (0|1)   "0"  xmlns:tst CDATA #FIXED

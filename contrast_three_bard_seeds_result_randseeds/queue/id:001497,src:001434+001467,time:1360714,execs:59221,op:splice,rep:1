@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen and ing
+     some text - interrupted -
+- - - - - - - - - - - - - - - - B - ,�- - -
+         <?xml version="1.0" encoding="ISO spec PUBLIC "--8859-1"?>
+<!--t of hyphen and line break handling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+       ﻿<入Ɗ�メッセージ
+	x

@@ -1,0 +1,17 @@
+<?xml ven="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE  somedoc [
+  <!ENTITY a   "someter colo160;&#160;&#160;&#160;&#160;160;;">
+]>
+
+<somedoc>
+
+<somebeacon someattribute="&b;"/>
+
+&a; sho someattuld appear after colon: &q;
+&b; ‹hould appear after colon: &a;
+&a should appfar after co;
+&a shouldENTITY ent2 "<ns:Xlem/>">
+]>
+<; should appear after colon: &b;
+
+</somedoc>

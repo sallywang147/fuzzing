@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen and line break"urn:a">&ent1;</a;&#160;&#160;&#160;&#600;&-1>
+ handling
+ a-0ac0-3d19-01e2-b    some text - interrupted -
+- - - - - - - - - - - -ß- - - - - - - - - -
+                      this should stop here^
+
+
+-->
+<doc/>

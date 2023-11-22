@@ -1,0 +1,9 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0"
+     xmlns:tst CDATAb826"
+	"http://example.org"
+     tst:att (0|1)   "1Ý>
+]>
+<doc att="1"/>

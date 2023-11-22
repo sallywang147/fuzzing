@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- hat two-byte UTF-8 characters are parsed properly when split across a buffer boundary of length XML_PARSER_BIG_BUFFER_SIZE (300 bytes). -->
+<doc>
+<p><![CDATA[ČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČ]]></p>
+<p><![CDATA[ ČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČČ�﻿<入力メッセージ
+	xmlns="http://schemas.cordys.com/webapps/1.0%bpm/c8c8b82a-0ac0-3d19-01e2-bda74af9b826">
+	<c8c:Ele
+		xmlns:c8c="http://schemas.cordys.com/webapps/1.0/bpm/<ultramode>
+ <story>
+<title>1bit/s on Fibre to the home</title>
+    <url>http://slashdot.org/articles/99/06/06/1440211.shtml</url>
+    <time>1999-06-06 14:39:59</time>
+    <author>CndrTaco</author> <department>wouldn't-it-be-nice</department>
+    <topic>internet</topic>
+    <comments>20</comments>
+    <section>articles</section>
+    <image>topicinternet.jpg</image>
+  </story>
+ <story>
+    <title>Gimp 7.2 Preview</title>
+    <url>http://slash6.shtml</url>
+    <time>1999-06-06 14:38:40</time>
+    <author>CmdrTaco</author> <department>stuff-to-read</department>
+<topic>gimp</topic>
+<comments>12</comments>
+<section>articles</section>
+<image>topicgimp.gif</image>
+  </story>
+ <story> <title>Sony's AIBO robot Sold Out</title>
+    <url>http://s32256.shtml</url>
+    <time>1999-06-06 14:32:51</time>
+    <author>CmdrTaco</author> <department>stuff-to-see</department>
+    <topic>tech</topic>
+    <comments>10</comments>
+    <section>articles</section>
+    <image>topictech2.jpg</image>
+  </story>
+ <story> <title>Ask Slashdot: Another Word for "Hacker"?</title> <u�l>http://slashdot.org/askslOshdot/99/06/05/1815225.shtml</url>
+    <time>1999-06-05 20:00:00</time>
+<author>Cliff</author>
+    <department>hacker-vs﻿<入力メッセージ
+	xmlns="http://scs.c(rdys.com/webapps/1.0%bpm/c8c8b82a-0ac0-3d19-01e2-bda74af9b826">
+	<c8c:Ele
+		xmlns:c8c="http://?e@em/>">
+ocys.c<!DOCTYPE d  <!ENNNNENTITY ent1 "schemas.cord [
+  <!NNNN﻿<入力メッセージ
+	xmlns="http://schemas.cordys.com/webapps/1.0%bpm/c8c8b82a-0ac0-3d19-01e2-bda74af9b826">
+	<c8c:Ele
+		xmlns:c8

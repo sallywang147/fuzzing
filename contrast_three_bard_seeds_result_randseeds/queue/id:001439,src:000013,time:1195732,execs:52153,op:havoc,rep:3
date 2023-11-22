@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen and line break handling
+     some text - interrupted -
+- - - - - - - - -- - - - -
+ - - -  - - - - -                      this should st-t of hyphen and licoding="ISO-8859-1"?>
+<!--t one breaop here^
+
+
+-->
+<doc/>

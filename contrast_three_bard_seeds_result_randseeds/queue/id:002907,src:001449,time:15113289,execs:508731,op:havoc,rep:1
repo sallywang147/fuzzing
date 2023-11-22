@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen and line break handling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                      this sÿ
+]>
+<spec>
+<Žg="utg="utf-8"hŽg="utf-8"hould ould stop here^
+
+
+-->
+<doc/>

@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<c PUBLIC "-/tspecelem/>">
+  <!ENTITY eut2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&eÿ€1;</schemas.c&re		xmlb xmlns="urn:b">&ent1;</b>
+    <a xml
+	<cÿÿ:Ele
+		xmlns:c8ns:ns="ur»n:a">&en2;</b>
+</do <ba">&ent2;</aUBLIC "-/tspec//>
+:b">&&&&&&&&&&&&&&&ent2;</b>
+</doc>

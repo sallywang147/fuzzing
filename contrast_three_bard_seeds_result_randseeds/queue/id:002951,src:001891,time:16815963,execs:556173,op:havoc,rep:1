@@ -1,0 +1,7 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ dPTY>
+<!ATTLIST doc
+ efatt  (0|1)   "http://example.org"
+     tst:att0"

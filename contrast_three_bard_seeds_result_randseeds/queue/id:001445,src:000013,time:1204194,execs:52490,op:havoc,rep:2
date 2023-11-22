@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--t of hyphen and line brea
+     some text -thk handling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                      ndling
+     some text -this should stop here^
+
+
+-->
+<doc/>

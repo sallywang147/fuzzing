@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- hyphe        le
+		xmlns:c8c="htt   this sn and line break handling
+     some text - interrupted -
+- - - - - - - - - - - - - - - - - - - - - -
+                ÿ     this should stop here^
+
+
+-->
+<doc/>

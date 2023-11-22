@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+  <!ENTITY entiso6.doc.daÿe '1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns==="urn:a">&ent1;</a>
+    <b xmlns="urn:b">&ent1;</b>
+Œ   <a xmlns:ns=ÿÿ:a">&ent2;</a>
+    <b xmlns:ns="urn:b">.doc.daÿb>
+</doc>

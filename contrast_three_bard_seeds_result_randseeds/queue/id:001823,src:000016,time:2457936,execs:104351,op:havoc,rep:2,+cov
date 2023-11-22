@@ -1,0 +1,4 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0t st CDATA #FIXED "http://exam1"/>

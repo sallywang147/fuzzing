@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+  <!ENTITY en†1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="urn:a">&ent1;</a>
+   /webapps/1.0/bp <b xmlns="826">
+	<c8c:Ele
+		xmlns:mldssssssssssssssssssssssssssssssss:ns="urn:n:a">&ent2;</a    < xmlns:ns="urn:b">&ent0;</b>
+H/doc>

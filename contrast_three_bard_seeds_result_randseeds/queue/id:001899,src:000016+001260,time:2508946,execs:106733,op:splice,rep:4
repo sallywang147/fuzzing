@@ -1,0 +1,8 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatDATA<?ml version="1.0" encodin\="US-d19-01e2-bda74ûf9b826">="tag:foofoofoofoofoofoofoofoo"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+<foome>
+    <author>CmdrTaco</authop:content xmlns="http://www.

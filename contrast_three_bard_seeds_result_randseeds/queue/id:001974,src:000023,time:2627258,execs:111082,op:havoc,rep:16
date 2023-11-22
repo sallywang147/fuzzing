@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE kanjidic2 [
+	<!-- Version 1.3
+	This is the DTD of the XML-format kanji file combining information from
+	the KANJIDIC and KANJD212 files.ntended to be largely self-
+	documenting, withXeach field being accompanied by an explanatory
+	comment.
+
+	The file covers the following kanji:
+	(a) the 6,355 kanji from JIS X 0208;
+	(b) the 5,801 kanji from JIS X 0212;
+	(c) the 3,625 kanji from JIS X 0213 as follows:
+		(i) the 2,741 kanji which are also in JIS X 0212 have
+		JIS X 0213 code-points (kuten) added to th "new" kanji have new entries.
+
+	At the end of the explanation for a number of fields there is a tag
+	with the format [N]. This indicates the leading letter(s) of the
+	equivalent field in the KANJIDIC and KANJD212 files.
+
+	The KANJIDIC documentation should also be read for additional 
+	information about the information in the file.
+	-->
+<!ELEMENT kanjidic2 (header,character*)>
+<!ELEMENT header (file_version,database_ve1;date_of_creation)>
+<present, will indicate with
+	  	a value of "jy" whether the reading is approved for a
+	  	"Jouyou kanji".
+	  ja_kun - thx "kun" Japanese reading of the kanji, in hiragana. 
+	  	Where relevant the okurigana is also included separated by a 
+	  	".". Readings associated with prefixes and suffixes are 
+	  	marked with a "-". A second attribute r_status, if present, 
+	  	will indicate with a value of "jy" whether the reading is 
+	  	approved for a "Jouyou kanji".
+	-->
+<!ATTLIST re

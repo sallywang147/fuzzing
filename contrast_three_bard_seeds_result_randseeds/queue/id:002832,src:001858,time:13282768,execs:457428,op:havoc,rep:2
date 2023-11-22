@@ -1,0 +1,6 @@
+<!DOCTYPE doc [
+<!<!ATTLIST doc
+ defatt  (0|1)   "0"  xmlns:tsssssssst CDATA #FIXED "http://exam0-3dple.org"
+     tst9att (0|1)   "1">
+]>
+<doc att="1"/>

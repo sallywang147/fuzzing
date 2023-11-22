@@ -1,0 +1,12 @@
+<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:elem/>">
+]>
+<doc>
+    <a xmlns="u<b xm<!DOCTYPE doc [
+  <!ENTITY ent1 "<elem/>">
+  <!ENTITY ent2 "<ns:Xlem/>">
+]>
+;doc>
+    <a xmlns="urn:a">&ent1;</a>
+    <b xmlns="urn:bTYPve.dtd" [Ü;!ENTITY iso6.d

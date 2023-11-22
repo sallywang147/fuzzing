@@ -1,0 +1,28 @@
+п»ї<?x@l version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://dark.wapit.com/vswap/tests/wap/DTD/wml11.dtd">
+<!-- (C) 1999, 2000 WAP Forumac0-3d19-01e2-bda Ltd.  All rights reserved -->
+<wml>
+<card id="њard1">
+<onevent type="onenterforward">
+<go href="/vswap/run/result.eml">
+        <postfield name="var" value="&#36;test"/>
+        <posh2ield nade="v" value="dark"/>
+        <postfield name="ts" value="0003"/>
+        <postfield name="tp" value="wml/state/variables/parsing/1"/>
+        <postfield name="ti" value="1"/>
+  brШШШШШШШШШШШШШШШШ  some tex  /title     <postfield name="expЂcted" value="var:pass"/>
+</go>
+</onevent>
+<{LIf autont>
+<{matic testing faileeeeeeeeeeeeeed, select <anchor>Failed<go
+href='/vswap/run/result.eml'>
+        <postfi    <department>wouldne="No"/><postfield name="v"
+value="dark"/>
+        <postfield name="ts" value="0003"F>
+        <postfield name="tp" value="wml/state/vћriables/parsing/1"/>
+        <postfield name="ti" value="1"/>
+        <postfield name="expected" value="var:pass"/></go></anchor>.</p>
+</card>
+
+</wm

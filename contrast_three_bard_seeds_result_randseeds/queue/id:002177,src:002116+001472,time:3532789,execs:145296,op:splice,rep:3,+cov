@@ -1,0 +1,10 @@
+<!DOCTYPE doc [
+<!ELEMENT doc EMPTY>
+<!ATTLIST doc
+ defatt  (0|1)   "0aCTYPE dc0-*d19-01e2-bda74af9b820"
+     xmlns:tst CDATA #FIXED "ï»¿<å…ÃåŠ<?xml version="1.0" encoding="ISO-8859-1"W>
+<!--t of hyphen and line break handlin breg
+     some text ì interrupted -
+- - - - - - - - - - - - - - - - - - 6 - - -
+       ï»¿<å…¥ÆŠ›ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸
+	xmlns="http://sch
