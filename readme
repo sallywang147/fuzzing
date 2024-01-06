@@ -7,3 +7,4 @@ docker exec -ti a047a061a59b /bin/bash
 In the following command, we use seeds and binaries from MLFuzz benchmarks: 
 /aflpp/afl-fuzz -i /fuzzing/mlfuzz_binaries/seeds/freetype2-2017  -o freetype2_aflpp_out /fuzzing/mlfuzz_binaries/freetype2-2017.aflpp @@
 
+![Alt text](https://github.com/sallywang147/fuzzing/blob/main/Screen%20Shot%202024-01-05%20at%2011.35.54%20PM.png?raw=true&sanitize=true)
