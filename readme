@@ -1,2 +1,9 @@
 start large fuzzing project
 download fuzz introspector: https://fuzz-introspector.readthedocs.io/en/latest/installation-instructions/installation.html
+
+freetype2 AFL++ baseline result command: 
+
+docker exec -ti a047a061a59b /bin/bash
+In the following command, we use seeds and binaries from MLFuzz benchmarks: 
+/aflpp/afl-fuzz -i /fuzzing/mlfuzz_binaries/seeds/freetype2-2017  -o freetype2_aflpp_out /fuzzing/mlfuzz_binaries/freetype2-2017.aflpp @@
+
